@@ -1,0 +1,1 @@
+ARM_SUBSCRIPTION_ID = "ea0d789c-aad1-4cc3-af6c-e00e19adfc2f"
